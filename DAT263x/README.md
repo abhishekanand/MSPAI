@@ -102,26 +102,26 @@ Equalization
 ### Conversation as a Platform
 #### Introduction to Bots
 ##### What is a Bot?
-The Microsoft Bot Framework
-Creating a Basic Bot
-Channels
- Building Intelligent Bots
-Bot Intelligence
-Creating a QnA Service
-Creating a QnA Bot
-Cortana Skills
-Real World AI - Cortana Skills
- Lab
-Lab  This content is graded
-Lab Instructions
-Review Questions
- Learning More
- Beyond the Basics
-Introduction to AI Engineering
-The Data Science Virtual Machine
-Deep Learning and the Microsoft Cognitive Toolkit
-Real World AI - Autonomous Sailplanes
- Where Do I Go From Here?
+##### The Microsoft Bot Framework
+##### Creating a Basic Bot
+##### Channels
+
+
+#### Building Intelligent Bots
+##### Bot Intelligence
+##### Creating a QnA Service
+##### Creating a QnA Bot
+##### Cortana Skills
+##### Real World AI - Cortana Skills
+
+### Learning More
+#### Beyond the Basics
+##### Introduction to AI Engineering
+##### The Data Science Virtual Machine
+##### Deep Learning and the Microsoft Cognitive Toolkit
+##### Real World AI - Autonomous Sailplanes
+
+Where Do I Go From Here?
 The First Step of the Journey
 Next Steps
 Post-Course Survey
